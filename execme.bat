@@ -1,7 +1,7 @@
-@ECHO
+@ECHO OFF
 SETX /M ANDROID_HOME "%cd%"
 
-SETTING ENVIRONMENT VARIABLES
+REM SETTING ENVIRONMENT VARIABLES
 
 SET BUILDTOOLS_PATH=%cd%\build-tools
 SET TOOLS_PATH=%cd%\build-tools
@@ -13,7 +13,7 @@ SET GROUPTOOLS_PATH=%path%;%BUILDTOOLS_PATH%;%TOOLS_PATH%;%PLATAFORMTOOLS_PATH%;
 SETX /M path "%GROUPTOOLS_PATH%"
 
 
-DOWNLOADING PLATFORMS-TOOLS AND SDK-TOOLS
+REM DOWNLOADING PLATFORMS-TOOLS AND SDK-TOOLS
 
 curl https://dl.google.com/android/repository/platform-tools_r30.0.1-windows.zip -o platform-tools.zip
 curl https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip -o tools.zip
