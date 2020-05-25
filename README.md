@@ -4,7 +4,8 @@
 #### Git bash: installed (curl dependency for do download of archives)
 
 ## Instructions: 
-#### Exec the bat archive: **execme.bat**  
+#### Step 1: Open powerShell as **Administrator** 
+#### Step 2: Exec the bat archive: **execme.bat**  
 
 ## This is the flux: 
 
