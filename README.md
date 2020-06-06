@@ -21,4 +21,4 @@ Installed or downloaded.
 
 Using only necessary, only cli.
 
-## Tested in Flutter and Ionic 4
+## Tested in Flutter, Ionic 4 and React Native.
