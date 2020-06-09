@@ -6,7 +6,7 @@
 ## Instructions: 
 #### Step 1: Open powerShell as **Administrator** 
 ##### Exec this bat archives by powerShell in administrator mode.
-#### Step 2: Exec the bat archive: **curl-install.bat** 
+#### Step 2: Exec the bat archive: **curl-install.bat** -> If you dont have installed.
 #### Step 3: Exec the bat archive: **execme.bat** -> He prepare your
 android environment.
 
